@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T17:53:45.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition std-1)" etag="V7HL8gp732Ok_UdyuJ-8" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T17:55:30.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition std-1)" etag="DPv5j4P3utmBJE-mvr1p" version="21.0.6" type="github">
   <diagram name="Page-1" id="uRIPfatCw118AgxCa4u1">
-    <mxGraphModel dx="1144" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,22 +35,22 @@
           <mxGeometry x="430" y="220" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cKvDjtCVvPDEmxER3Uto-6" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="860" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cKvDjtCVvPDEmxER3Uto-10" value="Crear nueva celda" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="390" width="70" height="80" as="geometry" />
+          <mxGeometry x="650" y="350" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cKvDjtCVvPDEmxER3Uto-12" value="No se pudo procesar el Query" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="280" y="360" width="70" height="80" as="geometry" />
+          <mxGeometry x="300" y="340" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zo9YWSXHyM8CzS7wuQ7N-1" value="Eliminar Celda" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="70" width="70" height="80" as="geometry" />
+          <mxGeometry x="720" y="110" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zo9YWSXHyM8CzS7wuQ7N-3" value="Actualizar Celda&lt;br&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="290" width="70" height="80" as="geometry" />
+          <mxGeometry x="720" y="230" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zo9YWSXHyM8CzS7wuQ7N-5" value="Recuperar info de la celda" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="70" height="80" as="geometry" />
+          <mxGeometry x="530" y="400" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
