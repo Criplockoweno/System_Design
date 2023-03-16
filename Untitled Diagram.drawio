@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-03-16T14:47:46.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition std-1)" etag="kE1l1OnohVZJLhxMIP9B" version="21.0.6" type="github">
+  <diagram name="Page-1" id="uRIPfatCw118AgxCa4u1">
+    <mxGraphModel dx="789" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="cKvDjtCVvPDEmxER3Uto-2" target="cKvDjtCVvPDEmxER3Uto-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-2" value="BD ordenes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.245;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cKvDjtCVvPDEmxER3Uto-3" target="cKvDjtCVvPDEmxER3Uto-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-3" value="Query" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cKvDjtCVvPDEmxER3Uto-5" target="cKvDjtCVvPDEmxER3Uto-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKvDjtCVvPDEmxER3Uto-5" target="cKvDjtCVvPDEmxER3Uto-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-5" value="Ejecutar el Query" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-6" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-10" value="Crear nueva celda" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKvDjtCVvPDEmxER3Uto-12" value="No se pudo procesar el Query" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="70" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
